@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.933c5026.css",
+    "main.js": "/static/js/main.dcb6870b.js",
+    "static/js/453.3fc660d4.chunk.js": "/static/js/453.3fc660d4.chunk.js",
+    "static/media/consulta7.jpg": "/static/media/consulta7.02044b594264bf50e403.jpg",
+    "static/media/dispensador.png": "/static/media/dispensador.c2f8896f9f8fc2b49d23.png",
+    "static/media/consulta6.jpg": "/static/media/consulta6.5a7d525cf82a3364a1b8.jpg",
+    "static/media/consulta2.png": "/static/media/consulta2.1893a07897e2e3d7c7c8.png",
+    "static/media/consulta9.jpg": "/static/media/consulta9.b6c31461dc89c488a018.jpg",
+    "static/media/consulta1.png": "/static/media/consulta1.e5817754ea9c08eeded8.png",
+    "static/media/consulta5.jpg": "/static/media/consulta5.44b7f3d3d393fcb748c3.jpg",
+    "index.html": "/index.html",
+    "main.933c5026.css.map": "/static/css/main.933c5026.css.map",
+    "main.dcb6870b.js.map": "/static/js/main.dcb6870b.js.map",
+    "453.3fc660d4.chunk.js.map": "/static/js/453.3fc660d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.933c5026.css",
+    "static/js/main.dcb6870b.js"
+  ]
+}
